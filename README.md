@@ -6,6 +6,9 @@
 
 👨‍💻 Maybe also take a look at my codesandbox! https://codesandbox.io/u/AssisrMatheus
 
+- [VSCode Setup](https://gist.github.com/AssisrMatheus/678acc5a24e5c8458226000cce2309dd)
+- [Jetbrains IDEs setup](https://gist.github.com/AssisrMatheus/652a627ede6a0af14513b33c13d343a0)
+
 ### 🎶 Current favorite playlist
 [![Matheus Assis's github stats](https://i.imgur.com/NfLYmjP.png)](https://open.spotify.com/playlist/5t13QviyIoimg6sHgpQJ6y)
 
