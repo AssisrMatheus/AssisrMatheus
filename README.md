@@ -4,6 +4,7 @@
 
 <h1 align="center"><b>Hi! Matheus Assis here!</b></h1>
 
+<!--
 👨‍💻 Maybe also take a look at my codesandbox! https://codesandbox.io/u/AssisrMatheus
 
 - [VSCode Setup](https://gist.github.com/AssisrMatheus/678acc5a24e5c8458226000cce2309dd)
@@ -15,7 +16,6 @@
 
 ![Matheus Assis's github stats](https://github-readme-stats.vercel.app/api?username=AssisrMatheus&show_icons=true)
 
-<!--
 **AssisrMatheus/AssisrMatheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 https://developer.spotify.com/documentation/widgets/generate/play-button/
